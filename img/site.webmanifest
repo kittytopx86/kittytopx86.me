@@ -3,17 +3,16 @@
     "short_name": "kittytopx86",
     "icons": [
         {
-            "src": "https://kittytopx86.me/img/android-chrome-192x192.png",
+            "src": "/img/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://kittytopx86.me/img/android-chrome-512x512.png",
+            "src": "/img/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
     ],
-    "theme_color": "#1f458c",
-    "background_color": "#1f458c",
-    "display": "standalone"
+    "theme_color": "#1e448b",
+    "background_color": "#1e448b"
 }
